@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+center img {
+    margin-top: 30px;
+}
+.container center {
+    background-color: rgb(238, 238, 238);
+    margin: 0 60px;
+}
+.container p {
+    font-size: 18px;
+    padding: 5px;
+}
+.container .text {
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+.container .submit {
+    padding: 3px 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+.table {
+    margin: 0 60px;
+    display: flex;
+}
+.table .left {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    margin: 3px 0;
+    padding: 10px;
+    font-size: 18px;
+    line-height: 24px;
+}
+.table .medium {
+    width: 19%;
+    background-color: #70CCC2;
+    font-size: small;
+    margin: 3px;
+    padding: 10px;
+    line-height: 20px;
+}
+.table .right {
+    background-color: #62B3AA;
+    width: 44%;
+    margin-left: 1px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding-bottom: 1px;
+}
+.right p {
+    font-size: 15px;
+}
+.right .text {
+    margin: 3px;
+    padding: 3px 5px;
+    font-size: 16px;
+}
+.right .submit {
+    padding: 1px 5px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+footer p {
+    font-size: small;
+    margin: 20px 60px;
+}
